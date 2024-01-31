@@ -1,0 +1,16 @@
+1. The "HackPack.py" to rename "logininfo.py" from
+ 
+2. Copy it to the root folder. (Usually C: \ Program Files \ Metin2\)
+
+3. Play to the Metin2! :)
+
+
+###################################
+Hack Pack by Pshiotox / matka5912 #
+				  #
+Multihack by 123klo		  #
+				  #
+Buffbot by 3t3r4n		  #
+				  #
+Shopbot by Romeo79		  #
+###################################

@@ -1,0 +1,4 @@
+-1: copiar los archivos python del "hack" a la carpeta del juego, ya sea guabina multihack, switchbot etc.
+-2: ejecutar "py_injector.exe"
+-3: abrir el cliente del juego
+-4: aparecera una consola en el cliente del juego que terminara la injeccion y despues desaparecera.
